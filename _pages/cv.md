@@ -14,7 +14,7 @@ redirect_from:
   Supervisor: Prof. Dr. Handan Akyar
 * M.Sc.  Mathematical Sciences, University of the Western Cape\
   African Institute for Mathematical Sciences, South Africa, 2018\
-  Project: Permutation Statistics ([pdf file](permutation_statistics.pdf)\
+  Project: Permutation Statistics ([pdf file](permutation_statistics.pdf))\
   Supervisor: Prof. Stephen Wagner
 * B.Sc. Mathematics and Statistics, University of Hargeisa, 2016
 
