@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D  Mathematics, Eskisehir Technical University, 2023 \
   Dissertation: Loop zero forcing on graphs\
-  Supervisor: Prof. Dr. Handan Akyar\
+  Supervisor: Prof. Dr. Handan Akyar
 * M.Sc.  Mathematical Sciences, University of the Western Cape\
   African Institute for Mathematical Sciences, South Africa, 2018\
   Project: Permutation Statistics\
