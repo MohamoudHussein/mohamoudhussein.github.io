@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * Ph.D  Mathematics, Eskisehir Technical University, 2023 \
   Dissertation: Loop zero forcing on graphs\
