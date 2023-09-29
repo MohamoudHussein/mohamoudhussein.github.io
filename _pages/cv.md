@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Ph.D  Mathematics, Eskisehir Technical University, 2023 \
   Dissertation: Loop zero forcing on graphs\
   Supervisor: Prof. Dr. Handan Akyar
