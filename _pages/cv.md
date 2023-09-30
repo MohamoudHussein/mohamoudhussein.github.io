@@ -11,7 +11,7 @@ redirect_from:
 
 * Ph.D  Mathematics, Eskisehir Technical University, 2023 \
   Dissertation: Loop zero forcing on graphs \
-  Supervisor: Prof. Dr. Handan Akyar [pdf](mohamoudhussein.github.io/images/permutation_statistics.pdf)
+  Supervisor: Prof. Dr. Handan Akyar [pdf](https://arxiv.org/pdf/2309.16624.pdf)
 * M.Sc.  Mathematical Sciences, University of the Western Cape\
   African Institute for Mathematical Sciences, South Africa, 2018\
   Project: Permutation Statistics ([pdf file](https://drive.google.com/file/d/1BhM7YtUaQklKBM9gFUtD0FSiMQ-X8Nqo/view))\
